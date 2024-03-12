@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fiap.cp4.LibraryFiap.LivroControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-11T20:05:01" hostname="MacBook-Air-de-Jhonn.local" time="0.487">
+  <properties/>
+  <testcase name="criarLivro()" classname="com.fiap.cp4.LibraryFiap.LivroControllerTest" time="0.487"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
